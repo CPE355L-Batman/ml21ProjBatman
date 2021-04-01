@@ -31,12 +31,15 @@ The Color Reflex Game is a fun and challenging game good for all ages. This game
 ### Feature Set:
 
 - LEDS (in various colors, 3)
+
      LED are used as an indicator in this game. A random LED will act as a distraction as it blink the wrong color contrary to the color written in the LCD display.
 
-- LCD Display
+- LCD Display (1)
+
      The LCD Display will show a random 3 colors: Blue, Red, and Green. It will also show the tally of the score and the average reaction time of the player at the end. 
 
 - Push Button (3)
+
      The Push Button acts as the activator in this game. Each Buttons are added near the each LED’s indicating the association between them. When a player push the right button they will score a point.
 
 - Arduino (1) 
