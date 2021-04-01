@@ -2,7 +2,7 @@
 
 # Color Reflex Game
 
-Team Members/ Positions:
+##Team Members/ Positions:
 
 Paul Vincent B. Espina (Researcher)
 Lorenzo R Macaso (Rapporteur)
@@ -25,10 +25,17 @@ The Color Reflex Game would be a simple game where a player is tasked to match t
 ###### Phase 2: Project Specifications
 ######Feature Set:
 -LEDS (3)
+
 -LCD Display
+
 -Push Button (3)
+
 -Arduino (1) 
+
 -Resistor 220 ohms (3)
+
 -Breadboard (1)
+
 -Jumper Wires
+
 -Laptop
