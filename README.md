@@ -5,7 +5,9 @@
 **Team Members/ Positions:**
 
 Paul Vincent B. Espina _(Researcher)_
+
 Lorenzo R Macaso _(Rapporteur)_
+
 Maria Pamela P. Tagayon _(Leader)_
 
 
