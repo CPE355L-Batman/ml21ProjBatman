@@ -16,28 +16,28 @@ The Color Reflex Game would be a simple game where a player is tasked to match t
 ###### References: 
 1) Donald, F. ”Reflex test for your brain using Arduino”.  Internet: https://www.gadgetronicx.com/reflex-test-game-using-arduino/, 2016, April 05 [March 10,2021].
 
-2)“I2C LCD Arduino Tutorial”. Internet:https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/, [March 10, 2021]
+2) “I2C LCD Arduino Tutorial”. Internet:https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/, [March 10, 2021]
 
-3)Klements, M.“Arduino based reaction timer - improve your reaction time.” Internet:https://www.the-diy-life.com/arduino-based-reaction-timer-improve-your-reaction-time/, 2020, April 21 [March 10, 2021].
+3) Klements, M.“Arduino based reaction timer - improve your reaction time.” Internet:https://www.the-diy-life.com/arduino-based-reaction-timer-improve-your-reaction-time/, 2020, April 21 [March 10, 2021].
  
-4)Miller, L. “Random LEDS Arduino.” Internet: https://www.learnrobotics.org/blog/random-leds-arduino/, 2020, January 28 [March 10,2021].
+4) Miller, L. “Random LEDS Arduino.” Internet: https://www.learnrobotics.org/blog/random-leds-arduino/, 2020, January 28 [March 10,2021].
 
 ###### Phase 2: Project Specifications
 
 ### Feature Set:
 
--LEDS (3)
+- LEDS (3)
 
--LCD Display
+- LCD Display
 
--Push Button (3)
+- Push Button (3)
 
--Arduino (1) 
+- Arduino (1) 
 
--Resistor 220 ohms (3)
+- Resistor 220 ohms (3)
 
--Breadboard (1)
+- Breadboard (1)
 
--Jumper Wires
+- Jumper Wires
 
--Laptop
+- Laptop
