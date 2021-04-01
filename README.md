@@ -28,7 +28,7 @@ The Color Reflex Game would be a simple game where a player is tasked to match t
  
 The Color Reflex Game is a fun and challenging game good for all ages. This game is not only for fun but it also helps to determine how quick the player's reaction and reflex is. Since this game is a bit more complex than a normal Reaction and Reflex Game,which is a combination of both, it will be a good entertainment of a person's spare time.
 
-### Feature Set:
+**Feature Set:**
 
 - LEDS (in various colors, 3)
 
