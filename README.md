@@ -2,11 +2,11 @@
 
 # Color Reflex Game
 
-##Team Members/ Positions:
+**Team Members/ Positions:**
 
-Paul Vincent B. Espina (Researcher)
-Lorenzo R Macaso (Rapporteur)
-Maria Pamela P. Tagayon (Leader)
+Paul Vincent B. Espina _(Researcher)_
+Lorenzo R Macaso _(Rapporteur)_
+Maria Pamela P. Tagayon _(Leader)_
 
 
 ###### Brief Description: 
@@ -23,7 +23,9 @@ The Color Reflex Game would be a simple game where a player is tasked to match t
 4)Miller, L. “Random LEDS Arduino.” Internet: https://www.learnrobotics.org/blog/random-leds-arduino/, 2020, January 28 [March 10,2021].
 
 ###### Phase 2: Project Specifications
-######Feature Set:
+
+### Feature Set:
+
 -LEDS (3)
 
 -LCD Display
